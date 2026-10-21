@@ -12,7 +12,7 @@ This Data Analysis project focuses on exploring, analyzing, and visualizing tran
 
 ---
 
-## 📄 Exam Document Attachments
+## 📄 Document Attachments
 
 [Sales-Analysis-Business-Performance-Fast-Food-Coffee-Shop (XLSX)](./Sales-Analysis-Business-Performance-Fast-Food-Coffee-Shop.xlsx)
 

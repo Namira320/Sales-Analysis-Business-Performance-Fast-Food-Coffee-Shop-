@@ -14,7 +14,7 @@ This Data Analysis project focuses on exploring, analyzing, and visualizing tran
 
 ## 📄 Document Attachments
 
-- [📊 View Excel Dataset Online (Preview)](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Namira320/Sales-Analysis-Business-Performance-Fast-Food-Coffee-Shop-/main/Sales-Analysis-Business-Performance-Fast-Food-Coffee-Shop-.xlsx)
+[Sales-Analysis-Business-Performance-Fast-Food-Coffee-Shops (XLSX)](./Sales-Analysis-Business-Performance-Fast-Food-Coffee-Shop.xlsx)
 
 ---
 

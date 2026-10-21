@@ -1,6 +1,6 @@
 # 📊 Sales Analysis & Business Performance (Fast Food & Coffee Shop)
 
-This Data Analysis Final Exam project focuses on exploring, analyzing, and visualizing transaction data from two culinary business sectors: **Fast Food Sales** and **Coffee Shop Sales**. The project applies Pivot Tables, data aggregation, and business metric visualization to evaluate sales performance, monthly trends, top-selling product categories, and consumer payment method preferences.
+This Data Analysis project focuses on exploring, analyzing, and visualizing transaction data from two culinary business sectors: **Fast Food Sales** and **Coffee Shop Sales**. The project applies Pivot Tables, data aggregation, and business metric visualization to evaluate sales performance, monthly trends, top-selling product categories, and consumer payment method preferences.
 
 ---
 
@@ -14,8 +14,7 @@ This Data Analysis Final Exam project focuses on exploring, analyzing, and visua
 
 ## 📄 Exam Document Attachments
 
-You can view or download the complete data recap document below:
-- [Ujian Akhir TAD - Excel Dataset & Pivot Tables (XLSX)](./Ujian%20Akhir%20TAD%20NAMIRA%20ASSALWA.xlsx)
+[Sales-Analysis-Business-Performance-Fast-Food-Coffee-Shop (XLSX)](./Sales-Analysis-Business-Performance-Fast-Food-Coffee-Shop.xlsx)
 
 ---
 

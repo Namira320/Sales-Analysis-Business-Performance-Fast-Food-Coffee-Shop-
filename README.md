@@ -6,9 +6,9 @@ This Data Analysis project focuses on exploring, analyzing, and visualizing tran
 
 ## 🛠️ Tech Stack & Tools
 
-- **Data Analysis & Processing:** Python (Pandas, NumPy) / Spreadsheet (Pivot Tables & Charts)
-- **Data Visualization:** Matplotlib, Seaborn / Excel Charting
-- **Working Environment:** Visual Studio Code / Jupyter Notebook / Microsoft Excel
+- **Data Analysis & Processing:** Spreadsheet (Pivot Tables & Charts)
+- **Data Visualization:** Excel Charting
+- **Working Environment:** Microsoft Excel
 
 ---
 
